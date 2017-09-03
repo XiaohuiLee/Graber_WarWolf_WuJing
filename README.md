@@ -1,4 +1,4 @@
-# Grab-Application-Data
+# Graber_WarWolf_WuJing
 This is a grabber for grabbing the data for the BIG heat movie in China this year: 《War Wolf》. Basically this is about extracting its comment on douban.com
 
 The basic url is https://movie.douban.com/subject/26363254/comments?start=0
